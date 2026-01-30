@@ -19,15 +19,21 @@ Bu proje, literatürdeki çeşitli tekniklerin özel bir kombinasyonunu içerir:
 
 -Deformable Convolutions (DCN): Atık nesnelerinin düzensiz geometrisini (bükülmüş, ezilmiş) daha iyi yakalamak için standart konvolüsyon yerine şekil değiştirebilen katmanlar.
 
-@Article{info14120633,
-AUTHOR = {Single, Sam and Iranmanesh, Saeid and Raad, Raad},
-TITLE = {RealWaste: A Novel Real-Life Data Set for Landfill Waste Classification Using Deep Learning},
-JOURNAL = {Information},
-VOLUME = {14},
-YEAR = {2023},
-NUMBER = {12},
-ARTICLE-NUMBER = {633},
-URL = {https://www.mdpi.com/2078-2489/14/12/633},
-ISSN = {2078-2489},
-DOI = {10.3390/info14120633}
+## 📚 Citation
+
+If you use the **RealWaste** dataset or this code in your research, please cite the original paper:
+
+### BibTeX
+```bibtex
+@article{RealWaste2023,
+  title={RealWaste: A Novel Real-Life Data Set for Landfill Waste Classification Using Deep Learning},
+  author={Single, Sam and Iranmanesh, Saeid and Raad, Raad},
+  journal={Information},
+  volume={14},
+  number={12},
+  pages={633},
+  year={2023},
+  publisher={MDPI},
+  doi={10.3390/info14120633},
+  url={https://archive.ics.uci.edu/dataset/908/realwaste}
 }
