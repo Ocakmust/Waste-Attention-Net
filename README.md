@@ -25,15 +25,7 @@ If you use the **RealWaste** dataset or this code in your research, please cite 
 
 ### BibTeX
 ```bibtex
-@article{RealWaste2023,
-  title={RealWaste: A Novel Real-Life Data Set for Landfill Waste Classification Using Deep Learning},
-  author={Single, Sam and Iranmanesh, Saeid and Raad, Raad},
-  journal={Information},
-  volume={14},
-  number={12},
-  pages={633},
-  year={2023},
-  publisher={MDPI},
-  doi={10.3390/info14120633},
-  url={https://archive.ics.uci.edu/dataset/908/realwaste}
-}
+
+Single, S., Iranmanesh, S., & Raad, R. (2023). RealWaste: A Novel Real-Life Data Set for Landfill Waste Classification Using Deep Learning. Information, 14(12), 633. https://doi.org/10.3390/info14120633
+
+URL:https://archive.ics.uci.edu/dataset/908/realwaste
